@@ -6,6 +6,7 @@
     220v
     Python
     JavaScript
+![001matplotlib_1plot_](https://github.com/user-attachments/assets/4aad356f-2060-4f6c-a8a7-43a1b69f638f)
 
 Требования
 - Python 3.9.13
